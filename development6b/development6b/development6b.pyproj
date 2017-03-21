@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="development6b\templates\A1.html" />
+    <Content Include="development6b\templates\A2.html" />
     <Content Include="requirements.txt" />
     <Content Include="development6b\static\content\bootstrap.css" />
     <Content Include="development6b\static\content\bootstrap.min.css" />
